@@ -1,0 +1,301 @@
+transaction_id,date,product,category,unit_price,quantity,store
+TX0001,2026-08-24,Phone Charger,Essentials,12.0,2,Southside
+TX0002,2026-07-27,Tea,Beverages,2.8,4,Northside
+TX0003,2026-07-10,Water,Beverages,1.5,4,Southside
+TX0004,2026-07-07,Sandwich,Food,5.5,5,Southside
+TX0005,2026-07-23,Notebook,Essentials,4.0,3,Southside
+TX0006,2026-07-26,Water,Beverages,1.5,4,Southside
+TX0007,2026-08-03,Chocolate,Snacks,2.2,1,City Centre
+TX0008,2026-08-03,Notebook,Essentials,4.0,5,Southside
+TX0009,2026-08-17,Wrap,Food,6.5,2,City Centre
+TX0010,2026-08-28,Notebook,Essentials,4.0,2,Southside
+TX0011,2026-07-13,Coffee,Beverages,3.5,4,City Centre
+TX0012,2026-08-31,Coffee,Beverages,3.5,1,City Centre
+TX0013,2026-07-04,Notebook,Essentials,4.0,5,Southside
+TX0014,2026-07-04,Phone Charger,Essentials,12.0,3,City Centre
+TX0015,2026-08-26,Sandwich,Food,5.5,1,City Centre
+TX0016,2026-08-06,Wrap,Food,6.5,3,City Centre
+TX0017,2026-08-19,Notebook,Essentials,4.0,2,Northside
+TX0018,2026-07-21,Water,Beverages,1.5,1,Southside
+TX0019,2026-07-31,Protein Bar,Snacks,3.2,4,City Centre
+TX0020,2026-07-12,Chocolate,Snacks,2.2,1,Southside
+TX0021,2026-08-16,Sandwich,Food,5.5,4,Northside
+TX0022,2026-07-07,Coffee,Beverages,3.5,1,Northside
+TX0023,2026-08-03,Phone Charger,Essentials,12.0,1,Northside
+TX0024,2026-08-27,Sandwich,Food,5.5,2,City Centre
+TX0025,2026-08-30,Tea,Beverages,2.8,4,Northside
+TX0026,2026-07-03,Chocolate,Snacks,2.2,3,Southside
+TX0027,2026-08-02,Tea,Beverages,2.8,1,City Centre
+TX0028,2026-08-09,Tea,Beverages,2.8,5,Southside
+TX0029,2026-08-10,Phone Charger,Essentials,12.0,1,Southside
+TX0030,2026-07-16,Protein Bar,Snacks,3.2,1,City Centre
+TX0031,2026-08-21,Sandwich,Food,5.5,2,Northside
+TX0032,2026-08-20,Crisps,Snacks,1.9,3,Southside
+TX0033,2026-07-14,Notebook,Essentials,4.0,3,Northside
+TX0034,2026-07-14,Protein Bar,Snacks,3.2,1,City Centre
+TX0035,2026-07-04,Protein Bar,Snacks,3.2,4,Southside
+TX0036,2026-07-28,Sandwich,Food,5.5,2,City Centre
+TX0037,2026-08-10,Sandwich,Food,5.5,4,Southside
+TX0038,2026-08-23,Water,Beverages,1.5,5,City Centre
+TX0039,2026-08-07,Sandwich,Food,5.5,5,City Centre
+TX0040,2026-08-30,Tea,Beverages,2.8,2,Southside
+TX0041,2026-08-14,Notebook,Essentials,4.0,4,Northside
+TX0042,2026-07-20,Phone Charger,Essentials,12.0,5,Southside
+TX0043,2026-07-25,Protein Bar,Snacks,3.2,2,Southside
+TX0044,2026-08-16,Crisps,Snacks,1.9,4,Northside
+TX0045,2026-07-22,Coffee,Beverages,3.5,4,Southside
+TX0046,2026-07-05,Protein Bar,Snacks,3.2,5,Northside
+TX0047,2026-07-21,Tea,Beverages,2.8,1,Northside
+TX0048,2026-07-06,Crisps,Snacks,1.9,1,Northside
+TX0049,2026-07-23,Crisps,Snacks,1.9,1,City Centre
+TX0050,2026-07-30,Wrap,Food,6.5,5,Southside
+TX0051,2026-07-30,Wrap,Food,6.5,4,Northside
+TX0052,2026-08-03,Water,Beverages,1.5,3,City Centre
+TX0053,2026-07-15,Protein Bar,Snacks,3.2,2,Northside
+TX0054,2026-07-06,Notebook,Essentials,4.0,4,Southside
+TX0055,2026-08-31,Phone Charger,Essentials,12.0,4,Northside
+TX0056,2026-07-26,Crisps,Snacks,1.9,5,City Centre
+TX0057,2026-08-03,Water,Beverages,1.5,1,Northside
+TX0058,2026-08-13,Notebook,Essentials,4.0,1,Northside
+TX0059,2026-07-27,Chocolate,Snacks,2.2,2,Southside
+TX0060,2026-08-29,Sandwich,Food,5.5,3,Southside
+TX0061,2026-07-20,Protein Bar,Snacks,3.2,2,Southside
+TX0062,2026-07-09,Protein Bar,Snacks,3.2,1,City Centre
+TX0063,2026-08-20,Notebook,Essentials,4.0,2,Northside
+TX0064,2026-07-21,Crisps,Snacks,1.9,5,Southside
+TX0065,2026-08-11,Crisps,Snacks,1.9,1,City Centre
+TX0066,2026-07-14,Notebook,Essentials,4.0,5,Northside
+TX0067,2026-08-16,Wrap,Food,6.5,2,City Centre
+TX0068,2026-07-26,Notebook,Essentials,4.0,1,Southside
+TX0069,2026-08-13,Water,Beverages,1.5,5,Southside
+TX0070,2026-08-20,Notebook,Essentials,4.0,4,Southside
+TX0071,2026-08-15,Sandwich,Food,5.5,5,Southside
+TX0072,2026-07-13,Water,Beverages,1.5,3,City Centre
+TX0073,2026-07-17,Notebook,Essentials,4.0,5,Southside
+TX0074,2026-08-31,Protein Bar,Snacks,3.2,1,City Centre
+TX0075,2026-07-09,Wrap,Food,6.5,1,City Centre
+TX0076,2026-08-09,Phone Charger,Essentials,12.0,5,Southside
+TX0077,2026-08-27,Water,Beverages,1.5,3,Northside
+TX0078,2026-08-08,Crisps,Snacks,1.9,5,City Centre
+TX0079,2026-08-12,Wrap,Food,6.5,3,Southside
+TX0080,2026-08-03,Phone Charger,Essentials,12.0,5,Southside
+TX0081,2026-08-08,Wrap,Food,6.5,2,Northside
+TX0082,2026-07-21,Phone Charger,Essentials,12.0,3,Northside
+TX0083,2026-08-14,Sandwich,Food,5.5,3,City Centre
+TX0084,2026-08-02,Chocolate,Snacks,2.2,5,Southside
+TX0085,2026-08-20,Crisps,Snacks,1.9,5,Southside
+TX0086,2026-07-22,Coffee,Beverages,3.5,4,Northside
+TX0087,2026-08-23,Sandwich,Food,5.5,1,City Centre
+TX0088,2026-07-22,Protein Bar,Snacks,3.2,3,City Centre
+TX0089,2026-07-30,Wrap,Food,6.5,3,City Centre
+TX0090,2026-07-08,Phone Charger,Essentials,12.0,5,Southside
+TX0091,2026-07-13,Tea,Beverages,2.8,5,City Centre
+TX0092,2026-07-04,Phone Charger,Essentials,12.0,3,Southside
+TX0093,2026-07-04,Notebook,Essentials,4.0,1,City Centre
+TX0094,2026-08-26,Protein Bar,Snacks,3.2,5,Southside
+TX0095,2026-07-28,Crisps,Snacks,1.9,2,City Centre
+TX0096,2026-07-04,Tea,Beverages,2.8,4,Northside
+TX0097,2026-07-05,Coffee,Beverages,3.5,3,Northside
+TX0098,2026-07-03,Coffee,Beverages,3.5,3,Northside
+TX0099,2026-08-25,Coffee,Beverages,3.5,3,Southside
+TX0100,2026-07-31,Coffee,Beverages,3.5,1,Southside
+TX0101,2026-08-03,Coffee,Beverages,3.5,2,Southside
+TX0102,2026-08-27,Crisps,Snacks,1.9,5,Southside
+TX0103,2026-08-01,Notebook,Essentials,4.0,2,Northside
+TX0104,2026-07-06,Protein Bar,Snacks,3.2,3,City Centre
+TX0105,2026-07-04,Notebook,Essentials,4.0,1,City Centre
+TX0106,2026-07-31,Phone Charger,Essentials,12.0,1,Northside
+TX0107,2026-07-14,Sandwich,Food,5.5,3,Southside
+TX0108,2026-07-23,Notebook,Essentials,4.0,5,City Centre
+TX0109,2026-07-11,Tea,Beverages,2.8,5,City Centre
+TX0110,2026-08-31,Notebook,Essentials,4.0,5,Southside
+TX0111,2026-07-23,Chocolate,Snacks,2.2,2,City Centre
+TX0112,2026-08-29,Chocolate,Snacks,2.2,2,Northside
+TX0113,2026-08-24,Chocolate,Snacks,2.2,2,City Centre
+TX0114,2026-07-20,Sandwich,Food,5.5,2,City Centre
+TX0115,2026-08-11,Protein Bar,Snacks,3.2,3,City Centre
+TX0116,2026-08-11,Phone Charger,Essentials,12.0,4,City Centre
+TX0117,2026-07-28,Crisps,Snacks,1.9,5,City Centre
+TX0118,2026-08-02,Protein Bar,Snacks,3.2,3,City Centre
+TX0119,2026-08-21,Water,Beverages,1.5,5,Southside
+TX0120,2026-07-06,Phone Charger,Essentials,12.0,5,City Centre
+TX0121,2026-07-27,Sandwich,Food,5.5,2,Southside
+TX0122,2026-07-11,Phone Charger,Essentials,12.0,3,Southside
+TX0123,2026-08-19,Chocolate,Snacks,2.2,5,City Centre
+TX0124,2026-08-17,Notebook,Essentials,4.0,1,City Centre
+TX0125,2026-08-01,Chocolate,Snacks,2.2,3,Southside
+TX0126,2026-07-25,Crisps,Snacks,1.9,1,Northside
+TX0127,2026-08-18,Sandwich,Food,5.5,3,City Centre
+TX0128,2026-07-08,Water,Beverages,1.5,3,City Centre
+TX0129,2026-08-23,Wrap,Food,6.5,3,Northside
+TX0130,2026-08-09,Crisps,Snacks,1.9,4,City Centre
+TX0131,2026-08-28,Wrap,Food,6.5,1,Southside
+TX0132,2026-08-23,Chocolate,Snacks,2.2,1,Northside
+TX0133,2026-07-15,Notebook,Essentials,4.0,1,Northside
+TX0134,2026-08-25,Sandwich,Food,5.5,2,Northside
+TX0135,2026-08-04,Phone Charger,Essentials,12.0,1,Northside
+TX0136,2026-07-02,Protein Bar,Snacks,3.2,4,Southside
+TX0137,2026-07-12,Crisps,Snacks,1.9,4,Southside
+TX0138,2026-08-31,Notebook,Essentials,4.0,1,City Centre
+TX0139,2026-07-12,Sandwich,Food,5.5,3,Southside
+TX0140,2026-08-19,Water,Beverages,1.5,4,City Centre
+TX0141,2026-07-27,Chocolate,Snacks,2.2,4,Southside
+TX0142,2026-07-27,Notebook,Essentials,4.0,3,Northside
+TX0143,2026-07-17,Phone Charger,Essentials,12.0,2,City Centre
+TX0144,2026-07-02,Phone Charger,Essentials,12.0,4,Northside
+TX0145,2026-08-17,Water,Beverages,1.5,1,Northside
+TX0146,2026-07-27,Coffee,Beverages,3.5,2,Northside
+TX0147,2026-08-14,Wrap,Food,6.5,2,Northside
+TX0148,2026-08-04,Chocolate,Snacks,2.2,2,Northside
+TX0149,2026-07-17,Chocolate,Snacks,2.2,2,Southside
+TX0150,2026-07-09,Tea,Beverages,2.8,2,Northside
+TX0151,2026-07-17,Sandwich,Food,5.5,4,Southside
+TX0152,2026-08-01,Tea,Beverages,2.8,3,Southside
+TX0153,2026-08-01,Chocolate,Snacks,2.2,4,Northside
+TX0154,2026-08-27,Wrap,Food,6.5,1,Southside
+TX0155,2026-07-28,Crisps,Snacks,1.9,5,Southside
+TX0156,2026-08-21,Sandwich,Food,5.5,4,City Centre
+TX0157,2026-08-16,Chocolate,Snacks,2.2,4,Northside
+TX0158,2026-08-25,Coffee,Beverages,3.5,1,Northside
+TX0159,2026-08-30,Water,Beverages,1.5,2,City Centre
+TX0160,2026-08-17,Protein Bar,Snacks,3.2,1,Northside
+TX0161,2026-08-09,Crisps,Snacks,1.9,3,City Centre
+TX0162,2026-07-09,Coffee,Beverages,3.5,4,Northside
+TX0163,2026-07-12,Notebook,Essentials,4.0,1,Northside
+TX0164,2026-08-18,Sandwich,Food,5.5,2,Northside
+TX0165,2026-07-09,Coffee,Beverages,3.5,1,Southside
+TX0166,2026-08-20,Sandwich,Food,5.5,1,Southside
+TX0167,2026-07-26,Coffee,Beverages,3.5,2,Northside
+TX0168,2026-07-09,Chocolate,Snacks,2.2,4,City Centre
+TX0169,2026-07-19,Phone Charger,Essentials,12.0,3,City Centre
+TX0170,2026-07-08,Wrap,Food,6.5,5,Northside
+TX0171,2026-07-01,Tea,Beverages,2.8,4,Northside
+TX0172,2026-07-28,Chocolate,Snacks,2.2,1,City Centre
+TX0173,2026-08-29,Notebook,Essentials,4.0,4,Southside
+TX0174,2026-08-10,Protein Bar,Snacks,3.2,3,City Centre
+TX0175,2026-08-11,Notebook,Essentials,4.0,2,City Centre
+TX0176,2026-07-05,Water,Beverages,1.5,3,City Centre
+TX0177,2026-07-30,Sandwich,Food,5.5,3,City Centre
+TX0178,2026-07-16,Notebook,Essentials,4.0,1,Northside
+TX0179,2026-08-09,Coffee,Beverages,3.5,2,Southside
+TX0180,2026-08-10,Crisps,Snacks,1.9,3,City Centre
+TX0181,2026-08-25,Phone Charger,Essentials,12.0,3,Northside
+TX0182,2026-08-19,Sandwich,Food,5.5,4,City Centre
+TX0183,2026-07-28,Tea,Beverages,2.8,5,Southside
+TX0184,2026-07-22,Sandwich,Food,5.5,2,Southside
+TX0185,2026-08-15,Chocolate,Snacks,2.2,3,Southside
+TX0186,2026-08-20,Crisps,Snacks,1.9,2,Southside
+TX0187,2026-07-10,Tea,Beverages,2.8,2,Southside
+TX0188,2026-07-22,Wrap,Food,6.5,4,Southside
+TX0189,2026-07-23,Phone Charger,Essentials,12.0,5,Northside
+TX0190,2026-07-14,Crisps,Snacks,1.9,2,Southside
+TX0191,2026-08-21,Crisps,Snacks,1.9,5,City Centre
+TX0192,2026-08-03,Phone Charger,Essentials,12.0,3,Northside
+TX0193,2026-08-24,Crisps,Snacks,1.9,4,Northside
+TX0194,2026-08-29,Tea,Beverages,2.8,1,Northside
+TX0195,2026-07-09,Water,Beverages,1.5,3,City Centre
+TX0196,2026-07-23,Phone Charger,Essentials,12.0,2,Southside
+TX0197,2026-07-15,Protein Bar,Snacks,3.2,2,City Centre
+TX0198,2026-07-08,Notebook,Essentials,4.0,1,Southside
+TX0199,2026-08-29,Protein Bar,Snacks,3.2,4,Southside
+TX0200,2026-07-09,Coffee,Beverages,3.5,5,Northside
+TX0201,2026-07-10,Protein Bar,Snacks,3.2,2,Southside
+TX0202,2026-07-21,Tea,Beverages,2.8,4,Northside
+TX0203,2026-08-28,Tea,Beverages,2.8,2,Northside
+TX0204,2026-07-15,Sandwich,Food,5.5,1,City Centre
+TX0205,2026-08-23,Chocolate,Snacks,2.2,2,Southside
+TX0206,2026-08-20,Water,Beverages,1.5,5,City Centre
+TX0207,2026-07-22,Water,Beverages,1.5,2,Northside
+TX0208,2026-08-25,Tea,Beverages,2.8,4,Northside
+TX0209,2026-08-02,Water,Beverages,1.5,2,Northside
+TX0210,2026-08-21,Protein Bar,Snacks,3.2,4,Northside
+TX0211,2026-07-18,Notebook,Essentials,4.0,5,City Centre
+TX0212,2026-08-12,Protein Bar,Snacks,3.2,2,Northside
+TX0213,2026-07-12,Wrap,Food,6.5,4,City Centre
+TX0214,2026-07-13,Crisps,Snacks,1.9,2,City Centre
+TX0215,2026-07-08,Phone Charger,Essentials,12.0,3,Northside
+TX0216,2026-07-31,Coffee,Beverages,3.5,1,City Centre
+TX0217,2026-08-11,Phone Charger,Essentials,12.0,1,City Centre
+TX0218,2026-07-15,Notebook,Essentials,4.0,5,Southside
+TX0219,2026-07-06,Phone Charger,Essentials,12.0,2,Northside
+TX0220,2026-07-30,Phone Charger,Essentials,12.0,5,Northside
+TX0221,2026-08-21,Tea,Beverages,2.8,2,City Centre
+TX0222,2026-08-26,Water,Beverages,1.5,1,City Centre
+TX0223,2026-08-10,Protein Bar,Snacks,3.2,5,Southside
+TX0224,2026-07-21,Phone Charger,Essentials,12.0,1,Northside
+TX0225,2026-07-26,Phone Charger,Essentials,12.0,3,Northside
+TX0226,2026-08-28,Sandwich,Food,5.5,2,Northside
+TX0227,2026-08-22,Coffee,Beverages,3.5,4,Northside
+TX0228,2026-08-05,Tea,Beverages,2.8,5,Southside
+TX0229,2026-07-08,Water,Beverages,1.5,4,Southside
+TX0230,2026-08-27,Water,Beverages,1.5,3,City Centre
+TX0231,2026-08-20,Tea,Beverages,2.8,1,Northside
+TX0232,2026-08-08,Water,Beverages,1.5,5,Northside
+TX0233,2026-07-13,Tea,Beverages,2.8,5,Northside
+TX0234,2026-08-31,Wrap,Food,6.5,5,Southside
+TX0235,2026-08-15,Wrap,Food,6.5,3,Northside
+TX0236,2026-08-26,Wrap,Food,6.5,3,Northside
+TX0237,2026-07-19,Chocolate,Snacks,2.2,4,Northside
+TX0238,2026-08-17,Coffee,Beverages,3.5,4,City Centre
+TX0239,2026-07-14,Protein Bar,Snacks,3.2,3,Southside
+TX0240,2026-08-06,Protein Bar,Snacks,3.2,1,Southside
+TX0241,2026-08-07,Protein Bar,Snacks,3.2,4,Northside
+TX0242,2026-08-16,Protein Bar,Snacks,3.2,5,Northside
+TX0243,2026-07-16,Sandwich,Food,5.5,3,City Centre
+TX0244,2026-08-21,Protein Bar,Snacks,3.2,1,Southside
+TX0245,2026-07-14,Notebook,Essentials,4.0,1,Southside
+TX0246,2026-08-21,Protein Bar,Snacks,3.2,3,City Centre
+TX0247,2026-07-13,Chocolate,Snacks,2.2,1,Southside
+TX0248,2026-07-21,Coffee,Beverages,3.5,3,Southside
+TX0249,2026-07-01,Phone Charger,Essentials,12.0,2,Southside
+TX0250,2026-07-02,Phone Charger,Essentials,12.0,1,Southside
+TX0251,2026-08-16,Crisps,Snacks,1.9,2,Northside
+TX0252,2026-08-25,Phone Charger,Essentials,12.0,2,Southside
+TX0253,2026-08-31,Wrap,Food,6.5,3,City Centre
+TX0254,2026-07-22,Protein Bar,Snacks,3.2,4,Northside
+TX0255,2026-07-04,Crisps,Snacks,1.9,4,Northside
+TX0256,2026-07-16,Water,Beverages,1.5,3,Southside
+TX0257,2026-08-08,Chocolate,Snacks,2.2,1,Southside
+TX0258,2026-07-15,Notebook,Essentials,4.0,2,Southside
+TX0259,2026-07-02,Notebook,Essentials,4.0,1,Northside
+TX0260,2026-07-06,Protein Bar,Snacks,3.2,5,Southside
+TX0261,2026-07-10,Water,Beverages,1.5,4,City Centre
+TX0262,2026-07-01,Notebook,Essentials,4.0,3,Northside
+TX0263,2026-07-01,Crisps,Snacks,1.9,3,City Centre
+TX0264,2026-08-12,Protein Bar,Snacks,3.2,3,City Centre
+TX0265,2026-07-21,Sandwich,Food,5.5,4,Northside
+TX0266,2026-08-10,Phone Charger,Essentials,12.0,4,City Centre
+TX0267,2026-07-02,Chocolate,Snacks,2.2,5,City Centre
+TX0268,2026-08-01,Tea,Beverages,2.8,1,Northside
+TX0269,2026-07-26,Chocolate,Snacks,2.2,5,Southside
+TX0270,2026-08-24,Phone Charger,Essentials,12.0,4,Southside
+TX0271,2026-07-11,Notebook,Essentials,4.0,4,Southside
+TX0272,2026-08-28,Sandwich,Food,5.5,1,City Centre
+TX0273,2026-07-10,Phone Charger,Essentials,12.0,4,Southside
+TX0274,2026-07-31,Sandwich,Food,5.5,5,City Centre
+TX0275,2026-07-11,Coffee,Beverages,3.5,5,Southside
+TX0276,2026-07-22,Tea,Beverages,2.8,5,City Centre
+TX0277,2026-08-13,Tea,Beverages,2.8,2,Northside
+TX0278,2026-07-13,Phone Charger,Essentials,12.0,4,Northside
+TX0279,2026-08-30,Crisps,Snacks,1.9,3,Southside
+TX0280,2026-08-01,Coffee,Beverages,3.5,4,City Centre
+TX0281,2026-08-04,Wrap,Food,6.5,4,Northside
+TX0282,2026-08-19,Sandwich,Food,5.5,5,City Centre
+TX0283,2026-07-16,Crisps,Snacks,1.9,4,Southside
+TX0284,2026-08-18,Wrap,Food,6.5,4,City Centre
+TX0285,2026-08-23,Sandwich,Food,5.5,2,Northside
+TX0286,2026-08-01,Tea,Beverages,2.8,1,City Centre
+TX0287,2026-08-29,Notebook,Essentials,4.0,1,Southside
+TX0288,2026-07-26,Water,Beverages,1.5,4,Northside
+TX0289,2026-07-10,Sandwich,Food,5.5,1,City Centre
+TX0290,2026-08-05,Chocolate,Snacks,2.2,5,Northside
+TX0291,2026-08-23,Coffee,Beverages,3.5,1,Southside
+TX0292,2026-08-15,Coffee,Beverages,3.5,1,City Centre
+TX0293,2026-07-25,Protein Bar,Snacks,3.2,5,Northside
+TX0294,2026-08-28,Coffee,Beverages,3.5,3,Southside
+TX0295,2026-07-05,Protein Bar,Snacks,3.2,5,City Centre
+TX0296,2026-08-15,Wrap,Food,6.5,3,Northside
+TX0297,2026-08-13,Sandwich,Food,5.5,1,Northside
+TX0298,2026-07-31,Tea,Beverages,2.8,3,Northside
+TX0299,2026-08-10,Crisps,Snacks,1.9,2,Northside
+TX0300,2026-07-15,Notebook,Essentials,4.0,4,Northside
